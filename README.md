@@ -1,5 +1,7 @@
 Wedding Invitation Website 💍
 
+ A modern digital wedding invitation website with elegant animations and responsive design.
+
 A beautiful and responsive wedding invitation website built using HTML, CSS, and JavaScript.
 
 This project was created as a digital wedding invitation template with elegant UI, countdown timer, floral design, music, and Google Maps integration.
