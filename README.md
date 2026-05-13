@@ -8,6 +8,13 @@ This project was created as a digital wedding invitation template with elegant U
 
 👉 https://weddinginvitationkishore.netlify.app
 
+📸 Preview
+<img width="1920" height="1080" alt="Screenshot (9)" src="https://github.com/user-attachments/assets/5425c1dd-330a-4c5c-ab24-f37a1baf76f5" />
+
+<img width="1920" height="1080" alt="Screenshot (10)" src="https://github.com/user-attachments/assets/c093f347-bcd1-4fdd-acc9-3e79fd5ed813" />
+
+
+
 ✨ Features
 
 💐 Elegant wedding invitation design
